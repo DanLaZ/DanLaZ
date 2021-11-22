@@ -1,1 +1,4 @@
-img[alt=image of me] { width: 200px; }
+img[src*="#profilePic"] {
+   width:150px;
+   height:100px;
+}
