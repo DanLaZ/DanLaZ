@@ -1,8 +1,36 @@
-# Daniel P. LaZenberry
-<img src="lazenber-high-res-current-photo.jpeg" width="150"/>
----
+# Dan LaZenberry
+<img src="lazenber-high-res-current-photo.jpeg" width="175"/>
 
-My current passion is with iOS Developement
+## About me
+New England native living in Brooklyn,NY.
+My coding journey began at Columbia University, where I attended a Full-stack web development coding bootcamp.
+
+### Goals
+- [X] Complete Full-Stack Web development coding bootcamp
+- [ ] Learn Swift & iOS Developement
+- [ ] Learn Dart & Flutter
+- [ ] Land 1st professional developer job
+
+##### Languages I'm Comfortable With
+- [X] JavaScript
+- [X] Swift
+- [ ] Objective-C
+- [ ] Dart
+
+
+# Get in Contact with me!
+#### [LinkedIn](https://www.linkedin.com/in/daniel-lazenberry-038a14181/)
+#### Email: danlazenberry@outlook.com
+#### [Twiiter](https://twitter.com/LaZenberry_Dan)
+
+# Resume & Portfolio Website
+#### [Resume](https://danlaz.com/resume.html)
+#### [danlaz.com](https://danlaz.com/)
+
+# 
+#### [StackOverFlow](https://stackoverflow.com/users/17203184/dan-lazenberry?tab=profile)
+#### [CodeWars](https://www.codewars.com/users/DanLaZ)
+
 <!--
 **DanLaZ/DanLaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
