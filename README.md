@@ -20,7 +20,7 @@ My coding journey began at Columbia University, where I attended a Full-stack we
 
 # Get in Contact with me!
 #### [LinkedIn](https://www.linkedin.com/in/daniel-lazenberry-038a14181/)
-#### Email: danlazenberry@outlook.com
+#### Email: daniel@danlaz.com
 #### [Twiiter](https://twitter.com/LaZenberry_Dan)
 
 # Resume & Portfolio Website
