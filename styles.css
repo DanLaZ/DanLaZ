@@ -1,4 +1,4 @@
-img[src*="#profilePic"] {
+img[src~="profilePic"] {
    width:150px;
    height:100px;
 }
