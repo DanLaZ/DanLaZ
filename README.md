@@ -1,5 +1,5 @@
 # Daniel P. LaZenberry
-![Image of me](lazenber-high-res-current-photo.jpeg# profilePic)
+❮img src="lazenber-high-res-current-photo.jpeg" ❯
 ---
 
 My current passion is with iOS Developement
