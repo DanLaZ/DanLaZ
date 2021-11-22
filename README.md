@@ -1,6 +1,5 @@
-<link rel="stylesheet" href="style.css">
 # Daniel P. LaZenberry
-<img src="lazenber-high-res-current-photo.jpeg" width="400" class="center"/>
+<img src="lazenber-high-res-current-photo.jpeg" width="50%" display="block" margin-left="auto" margin-right="auto" />
 ---
 
 My current passion is with iOS Developement
