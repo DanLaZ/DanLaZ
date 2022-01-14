@@ -5,18 +5,6 @@
 New England native living in Brooklyn,NY.
 My coding journey began at Columbia University, where I attended a Full-stack web development coding bootcamp.
 
-### Goals
-- [X] Complete Full-Stack Web development coding bootcamp
-- [ ] Learn Swift & iOS Developement
-- [ ] Learn Dart & Flutter
-- [ ] Land 1st professional developer job
-
-##### Languages I'm Comfortable With
-- [X] JavaScript
-- [X] Swift
-- [ ] Objective-C
-- [ ] Dart
-
 
 # Get in Contact with me!
 #### [LinkedIn](https://www.linkedin.com/in/daniel-lazenberry-038a14181/)
