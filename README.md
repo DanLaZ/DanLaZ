@@ -11,8 +11,7 @@ My coding journey began at Columbia University, where I attended a Full-stack we
 #### Email: daniel@danlaz.com
 #### [Twiiter](https://twitter.com/LaZenberry_Dan)
 
-# Resume & Portfolio Website
-#### [Resume](https://danlaz.com/resume.html)
+# Portfolio Website
 #### [danlaz.com](https://danlaz.com/)
 
 # 
